@@ -4,12 +4,10 @@
 }
 .carousel-inner{
    height: 600px;
-   
-}
+   }
 .but{
     text-align: center;
-    
-}
+    }
 nav #logo{
     
     float: left;
@@ -78,7 +76,6 @@ animation: scroll-left 10s linear infinite;
     }
 
 .acco img{
-    borde: solid red;
     height:15em;
     margin-right: 25%;
     width:25%;
@@ -90,7 +87,6 @@ animation: scroll-left 10s linear infinite;
     text-align: left;
 }
 .spe ul{
-    borde: solid red;
     margin-top: -180px;
     margin-right: 70%;
     padding-left: 45%;
@@ -102,7 +98,6 @@ animation: scroll-left 10s linear infinite;
     margin-top: -11%;
 }
 #dir{
-    borde: solid red;
     height: 200px;
     width:100%;
     
